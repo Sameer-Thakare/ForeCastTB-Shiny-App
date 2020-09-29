@@ -1,0 +1,8 @@
+body {
+  background-color: #fff;
+}
+.input_file .file{
+  height:150px; 
+  width:400px; 
+  background-color:green;
+}

@@ -1,0 +1,13 @@
+name: ForeCastTB
+title: ForeCastTB
+username:
+account: psfonline
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2586161
+bundleId: 3490428
+url: https://psfonline.shinyapps.io/ForeCastTB/
+when: 1596890524.55968
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_tb.R|drew.R|intro.html|intro.md|www/82375sb.lib|www/82375sb.log
